@@ -1,0 +1,25 @@
+﻿//new ConditionalStatementExercises.EqualOrNot().Solution();
+//new ConditionalStatementExercises.EvenOrOdd().Solution();
+//new ConditionalStatementExercises.PositiveOrNegative().Solution();
+//new ConditionalStatementExercises.LeapYear().Solution();
+//new ConditionalStatementExercises.EligibleForCasting().Solution();
+//new ConditionalStatementExercises.Task6().Solution();
+//new ConditionalStatementExercises.CategorizePerson().Solution();
+//new ConditionalStatementExercises.LargestNumber().Solution();
+//new ConditionalStatementExercises.DetermineCordinate().Solution();
+//new ConditionalStatementExercises.Task10().Solution();
+//new ConditionalStatementExercises.Task11().Solution(); !!! don't finished !!!
+//new ConditionalStatementExercises.Task12().Solution();
+//new ConditionalStatementExercises.Task13().Solution();
+//new ConditionalStatementExercises.Task14().Solution();
+//new ConditionalStatementExercises.Task15().Solution();
+//new ConditionalStatementExercises.VowelsOrConstant().Solution();
+//new ConditionalStatementExercises.CalculateProfitAndLoss().Solution();
+//new ConditionalStatementExercises.ElectricityBill().Solution();
+//new ConditionalStatementExercises.DeclareEquivalent().Solution();
+//new ConditionalStatementExercises.IntegerDayTostring().Solution();
+//new ConditionalStatementExercises.NumbersToDigits().Solution();
+//new ConditionalStatementExercises.NumberTwoMonth().Solution();
+//new ConditionalStatementExercises.numbersOfDayInMonth().Solution();
+//new ConditionalStatementExercises.areaOfTheVariousGeometrical().Solution();
+new ConditionalStatementExercises.SimpleCalculator().Solution();
